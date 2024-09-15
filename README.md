@@ -22,4 +22,4 @@ git.del_repos('Новый репозиторий')
 ## Chek needed params pre work status
 
 Чтобы проверить, доступны ли все необходимые параметры перед выполнением операций, вы можете вызвать метод
-git.chek_conf()# git_api_assist
+git.chek_conf()
